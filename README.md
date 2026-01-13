@@ -65,7 +65,7 @@ Nilai < 60 → D
 3. view.py
 
 Berisi class View yang bertugas menampilkan data mahasiswa dan grade dalam bentuk tabel (kotak) di terminal.
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/Project-Uas-Pemograman/blob/9e0814009862add47c197ee64d77fdb455924214/img/Screenshot%202026-01-13%20112412.png)
 
 4. main.py
 
