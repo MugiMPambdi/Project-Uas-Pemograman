@@ -80,7 +80,7 @@ Melakukan validasi input
 Menghitung grade
 
 Menampilkan hasil
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/Project-Uas-Pemograman/blob/a736bf5f9f8fc297cb9ff8e2efa6e2e330281332/img/Screenshot%202026-01-13%20112422.png)
 
 Validasi Input
 
