@@ -60,7 +60,7 @@ Nilai ≥ 70 → B
 Nilai ≥ 60 → C
 
 Nilai < 60 → D
-![alt image]()
+![alt image](img/Screenshot 2026-01-13 112400.png)
 
 3. view.py
 
