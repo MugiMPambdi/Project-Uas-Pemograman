@@ -45,7 +45,7 @@ Penjelasan File
 1. data.py
 
 Berisi class Mahasiswa yang berfungsi untuk menyimpan data mahasiswa seperti nama, NIM, dan nilai.
-![alt image]()
+![alt image](https://github.com/MugiMPambdi/Project-Uas-Pemograman/blob/60dc46a486a643c51f94ce1b592e27b140e4f925/img/Screenshot%202026-01-13%20112337.png)
 
 2. process.py
 
