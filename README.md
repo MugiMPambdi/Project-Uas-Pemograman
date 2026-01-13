@@ -45,7 +45,7 @@ Penjelasan File
 1. data.py
 
 Berisi class Mahasiswa yang berfungsi untuk menyimpan data mahasiswa seperti nama, NIM, dan nilai.
-<img  />
+![alt image]()
 
 2. process.py
 
@@ -60,12 +60,12 @@ Nilai ≥ 70 → B
 Nilai ≥ 60 → C
 
 Nilai < 60 → D
-<img  />
+![alt image]()
 
 3. view.py
 
 Berisi class View yang bertugas menampilkan data mahasiswa dan grade dalam bentuk tabel (kotak) di terminal.
-<img  />
+![alt image]()
 
 4. main.py
 
@@ -80,7 +80,7 @@ Melakukan validasi input
 Menghitung grade
 
 Menampilkan hasil
-<img width="624" height="481" alt="Screenshot 2026-01-12 013518" src="https://github.com/user-attachments/assets/1559f4bc-33ad-4151-8c2a-87cf37e9800d" />
+![alt image]()
 
 Validasi Input
 
