@@ -60,7 +60,7 @@ Nilai ≥ 70 → B
 Nilai ≥ 60 → C
 
 Nilai < 60 → D
-![alt image](img/Screenshot 2026-01-13 112400.png)
+![alt image](https://github.com/MugiMPambdi/Project-Uas-Pemograman/blob/ee7faa4a3584373991101aca595f2ec4c2f16c9c/img/Screenshot%202026-01-13%20112400.png)
 
 3. view.py
 
